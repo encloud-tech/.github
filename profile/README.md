@@ -2,11 +2,11 @@
 
 <img src="https://github.com/encloud-tech/.github/assets/52910688/afe90917-4255-4fcb-a082-97fe5d68ff12" alt="encloud Logo" width="30%" height="30%"/>
 
-Welcome to encloud, where we are building a compliant trust layer for enterprise generative AI. Founded in 2019, we have been dedicated to building a world where value creation is driven by data deployment without risk. A world where data ecosystems will thrive through enterprise-grade confidential AI. A vision for the future data economy.
+Welcome to encloud, where we are building encrypted GenAI for regulated industries. Founded in 2019, we have been dedicated to building a world where value creation is driven by data deployment without risk. A world where data ecosystems will thrive through enterprise-grade confidential AI. A vision for the future data economy.
 
 ## 🚀 What We Do
 
-encloud are developing tools to enable Generative AI like LLMs to be deployed with Confidential Computing technology, enabling end to end privacy while using LLMs and other AI models. 
+encloud have developed tools to enable Generative AI, to query encrypted data, using Confidential Computing technology, enabling end to end privacy while using LLMs and other GenAI. 
 
 <img src="https://github.com/encloud-tech/.github/assets/52910688/29405460-1032-46ef-86ac-9a5657222ebb" alt="encloud Flow" width="50%" height="50%"/>
 
